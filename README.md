@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm trongtomo</h1>
 <h3 align="center">A web-developer who interested in many things</h3>
 
-- 🌱 I’m currently learning **React Hook**
+- 🌱 I’m currently learning **Word Press**
 
 - 💬 Ask me about **anything**
 
