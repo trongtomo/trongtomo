@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm trongtomo</h1>
 <h3 align="center">A web-developer who interested in many things</h3>
 
-- 🌱 I’m currently building my own website **<a href="https://trongtomo.com">**
+- 🌱 I’m currently building my own website **<a href="https://trongtomo.com">trongtomo.com**
 
 - 💬 Feel free to contact with me about **anything**
 
