@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm trongtomo</h1>
 <h3 align="center">A web-developer who interested in many things</h3>
 
-- 🌱 I’m currently learning **REDUX**
+- 🌱 I’m currently building my own website **<a href="https://trongtomo.com">**
 
-- 💬 Ask me about **anything**
+- 💬 Feel free to contact with me about **anything**
 
 - 📫 How to reach me **trongnq98@gmail.com**
 
