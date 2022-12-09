@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://media.giphy.com/media/10AoZDUmPrhguQ/giphy.gif](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi2.kym-cdn.com%2Fphotos%2Fimages%2Foriginal%2F001%2F109%2F373%2Fbcc.gif&f=1&nofb=1&ipt=6fb084e939abd6e8c2d54eff1aa4837199fd8e4b8fa08a73b45ab5bc653f5d6c&ipo=images)"  />
+<img align="right" height="150" src="https://i2.kym-cdn.com/photos/images/original/001/109/373/bcc.gif"  />
 
 ###
 
